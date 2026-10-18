@@ -1,0 +1,14 @@
+.env
+.env.*
+*.key
+*.pem
+id_rsa*
+id_ed25519*
+*.qcow2
+*.img
+*.db
+*.sqlite
+*.sqlite3
+*.iso
+__pycache__/
+*.pyc
