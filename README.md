@@ -85,16 +85,6 @@ The following are potential directions and are not part of the current implement
 - Automated tests and a CI pipeline
 - Containerized deployment of the portal and controller
 
-## Screenshots
-
-![Screenshot 1](screenshots/Screenshot%20From%202026-10-18%2020-21-56.png)
-
-![Screenshot 2](screenshots/Screenshot%20From%202026-10-18%2020-22-07.png)
-
-![Screenshot 3](screenshots/Screenshot%20From%202026-10-18%2020-22-37.png)
-
-![Screenshot 4](screenshots/Screenshot%20From%202026-10-18%2020-22-44.png)
-
 ## Limitations and Security Considerations
 
 ### Limitations
